@@ -25,7 +25,7 @@
 This guide was tested with the following system specs
 
 - Windows 11
-- NVIDIA RTC 4080
+- NVIDIA RTX 4080
 - 16GB RAM
 - Processor	Intel(R) Core(TM) i7-14650HX, 2200 Mhz, 16 Core(s), 24 Logical Processor(s)
 - NVIDIA GeForce RTX 4080 Laptop GPU
