@@ -32,12 +32,11 @@ This guide was tested with the following system specs
 
 ### Guide 1 Run Local RAG Using Anythingllm and OpenRouter
 
-Guide was made on **AnythingLLM v1.8.2**
+Guide based on **AnythingLLM v1.8.2**
 
 #### 1 Install Anythingllm
 
 - (recommended) Download the latest AnythinLLM version from here https://anythingllm.com/
-- Option 2: Use the executable  [./setup-files/AnythingLLMDesktop.exe](./setup-files/AnythingLLMDesktop.exe)
 
 #### 2 Generate API Keys for OpenRouter
 
